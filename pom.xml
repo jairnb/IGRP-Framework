@@ -11,8 +11,8 @@
    <version>1.0.0-SNAPSHOT</version>
    <packaging>pom</packaging>
 
-   <name>Modulos IGRP</name>
-   <description>Modulso de igrp</description>
+   <name>IGRP</name>
+   <description>IGRP Modules</description>
 
 
    <modules>
